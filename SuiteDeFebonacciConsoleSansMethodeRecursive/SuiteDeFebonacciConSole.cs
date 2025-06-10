@@ -23,9 +23,7 @@ public class SuiteDeFebonacciConsole
 
                 nombreUn = nombreDeux;
                 nombreDeux = resultat;
-
             }
         }
-
     }
 }
